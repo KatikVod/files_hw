@@ -1,0 +1,28 @@
+{
+  "id": 345678,
+  "name": "Heisenbug 2024 Spring",
+  "location": {
+    "venue": "Congress Center",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  "sponsors": [
+  {
+    "name": "Reksoft",
+    "url": "https://www.reksoft.ru/"
+  },
+  {
+    "name": "Ozon Tech",
+    "url": "https://ozon.tech/"
+  },
+  {
+    "name": "GitVerse",
+    "url": "https://gitverse.ru/"
+  }
+  ],
+  "reports": [
+  "Events: Love Triangle in Integration Testing",
+  "The art of JUnit extensions 2",
+  "Zero to Hero. Production QA"
+  ]
+}
