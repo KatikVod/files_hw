@@ -13,7 +13,7 @@ import java.util.zip.ZipInputStream;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class ZipParsingTests {
-    private ClassLoader cl = ZipParsingTests.class.getClassLoader();
+    private final ClassLoader cl = ZipParsingTests.class.getClassLoader();
 
     @Test
     @DisplayName("Проверка количества страниц в pdf-файле")
